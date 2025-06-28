@@ -4,3 +4,13 @@
     ViewData["Title"] = "Delete Material";
 }
 
+<h1>Delete Material</h1>
+
+<h3>Are you sure you want to delete "@Model.Material.Material_Name"?</h3>
+
+<form method="post">
+    <input type="hidden" asp-for="Material.Material_Name"/>
+    <button type="submit" class="btn btn-danger">Delete</button>
+    <a asp-page="./Index" class="btn btn-secondary">Calcel</a>
+</form>
+

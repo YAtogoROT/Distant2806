@@ -7,6 +7,10 @@
       "RelativeMoniker": "D:0:0:{DED5024B-EB7E-456F-9863-02773A6A7C9B}|Dist2806\\Dist2806.csproj|solutionrelative:dist2806\\pages\\delete.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{DED5024B-EB7E-456F-9863-02773A6A7C9B}|Dist2806\\Dist2806.csproj|c:\\users\\vlad\\source\\repos\\finalapi\\dist2806\\pages\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DED5024B-EB7E-456F-9863-02773A6A7C9B}|Dist2806\\Dist2806.csproj|solutionrelative:dist2806\\pages\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{DED5024B-EB7E-456F-9863-02773A6A7C9B}|Dist2806\\Dist2806.csproj|c:\\users\\vlad\\source\\repos\\finalapi\\dist2806\\pages\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{DED5024B-EB7E-456F-9863-02773A6A7C9B}|Dist2806\\Dist2806.csproj|solutionrelative:dist2806\\pages\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
@@ -25,10 +29,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{DED5024B-EB7E-456F-9863-02773A6A7C9B}|Dist2806\\Dist2806.csproj|c:\\users\\vlad\\source\\repos\\finalapi\\dist2806\\pages\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{DED5024B-EB7E-456F-9863-02773A6A7C9B}|Dist2806\\Dist2806.csproj|solutionrelative:dist2806\\pages\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DED5024B-EB7E-456F-9863-02773A6A7C9B}|Dist2806\\Dist2806.csproj|c:\\users\\vlad\\source\\repos\\finalapi\\dist2806\\pages\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DED5024B-EB7E-456F-9863-02773A6A7C9B}|Dist2806\\Dist2806.csproj|solutionrelative:dist2806\\pages\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{DED5024B-EB7E-456F-9863-02773A6A7C9B}|Dist2806\\Dist2806.csproj|c:\\users\\vlad\\source\\repos\\finalapi\\dist2806\\services\\apiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -90,21 +90,21 @@
               "Title": "Delete.cshtml.cs",
               "DocumentMoniker": "C:\\Users\\Vlad\\source\\repos\\FinalApi\\Dist2806\\Pages\\Delete.cshtml.cs",
               "RelativeDocumentMoniker": "Dist2806\\Pages\\Delete.cshtml.cs",
-              "ToolTip": "C:\\Users\\Vlad\\source\\repos\\FinalApi\\Dist2806\\Pages\\Delete.cshtml.cs*",
-              "RelativeToolTip": "Dist2806\\Pages\\Delete.cshtml.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAjAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\Vlad\\source\\repos\\FinalApi\\Dist2806\\Pages\\Delete.cshtml.cs",
+              "RelativeToolTip": "Dist2806\\Pages\\Delete.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-28T15:29:07.565Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "Delete.cshtml",
               "DocumentMoniker": "C:\\Users\\Vlad\\source\\repos\\FinalApi\\Dist2806\\Pages\\Delete.cshtml",
               "RelativeDocumentMoniker": "Dist2806\\Pages\\Delete.cshtml",
-              "ToolTip": "C:\\Users\\Vlad\\source\\repos\\FinalApi\\Dist2806\\Pages\\Delete.cshtml*",
-              "RelativeToolTip": "Dist2806\\Pages\\Delete.cshtml*",
+              "ToolTip": "C:\\Users\\Vlad\\source\\repos\\FinalApi\\Dist2806\\Pages\\Delete.cshtml",
+              "RelativeToolTip": "Dist2806\\Pages\\Delete.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-06-28T15:26:36.469Z",
@@ -112,7 +112,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Edit.cshtml.cs",
               "DocumentMoniker": "C:\\Users\\Vlad\\source\\repos\\FinalApi\\Dist2806\\Pages\\Edit.cshtml.cs",
               "RelativeDocumentMoniker": "Dist2806\\Pages\\Edit.cshtml.cs",
@@ -125,7 +125,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Edit.cshtml",
               "DocumentMoniker": "C:\\Users\\Vlad\\source\\repos\\FinalApi\\Dist2806\\Pages\\Edit.cshtml",
               "RelativeDocumentMoniker": "Dist2806\\Pages\\Edit.cshtml",
@@ -151,12 +151,12 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "Create.cshtml",
               "DocumentMoniker": "C:\\Users\\Vlad\\source\\repos\\FinalApi\\Dist2806\\Pages\\Create.cshtml",
               "RelativeDocumentMoniker": "Dist2806\\Pages\\Create.cshtml",
-              "ToolTip": "C:\\Users\\Vlad\\source\\repos\\FinalApi\\Dist2806\\Pages\\Create.cshtml*",
-              "RelativeToolTip": "Dist2806\\Pages\\Create.cshtml*",
+              "ToolTip": "C:\\Users\\Vlad\\source\\repos\\FinalApi\\Dist2806\\Pages\\Create.cshtml",
+              "RelativeToolTip": "Dist2806\\Pages\\Create.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-06-28T13:37:07.164Z",
@@ -164,13 +164,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 1,
               "Title": "Create.cshtml.cs",
               "DocumentMoniker": "C:\\Users\\Vlad\\source\\repos\\FinalApi\\Dist2806\\Pages\\Create.cshtml.cs",
               "RelativeDocumentMoniker": "Dist2806\\Pages\\Create.cshtml.cs",
               "ToolTip": "C:\\Users\\Vlad\\source\\repos\\FinalApi\\Dist2806\\Pages\\Create.cshtml.cs",
               "RelativeToolTip": "Dist2806\\Pages\\Create.cshtml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAqAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-28T13:33:15.6Z",
               "EditorCaption": ""
@@ -190,7 +190,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\Vlad\\source\\repos\\FinalApi\\Dist2806\\Pages\\Index.cshtml",
               "RelativeDocumentMoniker": "Dist2806\\Pages\\Index.cshtml",
