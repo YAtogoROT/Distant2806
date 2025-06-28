@@ -1,0 +1,23 @@
+﻿@page
+@model Dist2806.Pages.EditModel
+@{
+    ViewData["Title"] = "Edit Material";
+}
+
+<h1>Edit Material</h1>
+
+
+<form method="post">
+    <input type="hidden" asp-for="Material.Material_ID" />
+    <div class="form-group">
+        <label asp-for="Material.Material_Name"></label>
+        <input asp-for="Material.Material_Name" class="form-control" />
+        <span asp-validation-for="Material.Material_Name" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <label asp-for="Material.Material_Cost"></label>
+        <input asp-for="Material.Material_Cost" class="form-control" />
+        <span asp-validation-for="Material.Material_Cost" class="text-danger"></span>
+    </div>
+    <button type="submit" class="btn btn-primary">Save</button>
+</form>

@@ -1,0 +1,3 @@
+﻿если хотите убрать 2 предупреждения можно убрать строку 
+    <PackageReference Include="EntityFramework.ru" Version="6.2.0" />
+из FinalApi

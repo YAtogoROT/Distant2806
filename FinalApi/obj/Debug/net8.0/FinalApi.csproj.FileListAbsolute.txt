@@ -1,0 +1,120 @@
+C:\Users\Vlad\source\repos\FinalApi\FinalApi\obj\Debug\net8.0\FinalApi.csproj.AssemblyReference.cache
+C:\Users\Vlad\source\repos\FinalApi\FinalApi\obj\Debug\net8.0\FinalApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vlad\source\repos\FinalApi\FinalApi\obj\Debug\net8.0\FinalApi.AssemblyInfoInputs.cache
+C:\Users\Vlad\source\repos\FinalApi\FinalApi\obj\Debug\net8.0\FinalApi.AssemblyInfo.cs
+C:\Users\Vlad\source\repos\FinalApi\FinalApi\obj\Debug\net8.0\FinalApi.csproj.CoreCompileInputs.cache
+C:\Users\Vlad\source\repos\FinalApi\FinalApi\obj\Debug\net8.0\FinalApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Vlad\source\repos\FinalApi\FinalApi\obj\Debug\net8.0\FinalApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Vlad\source\repos\FinalApi\FinalApi\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Vlad\source\repos\FinalApi\FinalApi\bin\Debug\net8.0\appsettings.json
+C:\Users\Vlad\source\repos\FinalApi\FinalApi\bin\Debug\net8.0\FinalApi.exe
+C:\Users\Vlad\source\repos\FinalApi\FinalApi\bin\Debug\net8.0\FinalApi.dll.config
+C:\Users\Vlad\source\repos\FinalApi\FinalApi\bin\Debug\net8.0\FinalApi.deps.json
+C:\Users\Vlad\source\repos\FinalApi\FinalApi\bin\Debug\net8.0\FinalApi.runtimeconfig.json
+C:\Users\Vlad\source\repos\FinalApi\FinalApi\bin\Debug\net8.0\FinalApi.dll
+C:\Users\Vlad\source\repos\FinalApi\FinalApi\bin\Debug\net8.0\FinalApi.pdb
+C:\Users\Vlad\source\repos\FinalApi\FinalApi\bin\Debug\net8.0\EntityFramework.SqlServer.dll
+C:\Users\Vlad\source\repos\FinalApi\FinalApi\bin\Debug\net8.0\EntityFramework.dll
+C:\Users\Vlad\source\repos\FinalApi\FinalApi\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\Vlad\source\repos\FinalApi\FinalApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Vlad\source\repos\FinalApi\FinalApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Vlad\source\repos\FinalApi\FinalApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Vlad\source\repos\FinalApi\FinalApi\bin\Debug\net8.0\ClassLibraryDataBase.dll
+C:\Users\Vlad\source\repos\FinalApi\FinalApi\bin\Debug\net8.0\ClassLibraryDataBase.pdb
+C:\Users\Vlad\source\repos\FinalApi\FinalApi\bin\Debug\net8.0\ClassLibraryDataBase.dll.config
+C:\Users\Vlad\source\repos\FinalApi\FinalApi\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Vlad\source\repos\FinalApi\FinalApi\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Vlad\source\repos\FinalApi\FinalApi\obj\Debug\net8.0\staticwebassets\msbuild.FinalApi.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Vlad\source\repos\FinalApi\FinalApi\obj\Debug\net8.0\staticwebassets\msbuild.build.FinalApi.props
+C:\Users\Vlad\source\repos\FinalApi\FinalApi\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.FinalApi.props
+C:\Users\Vlad\source\repos\FinalApi\FinalApi\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.FinalApi.props
+C:\Users\Vlad\source\repos\FinalApi\FinalApi\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\Vlad\source\repos\FinalApi\FinalApi\obj\Debug\net8.0\scopedcss\bundle\FinalApi.styles.css
+C:\Users\Vlad\source\repos\FinalApi\FinalApi\obj\Debug\net8.0\FinalApi.csproj.Up2Date
+C:\Users\Vlad\source\repos\FinalApi\FinalApi\obj\Debug\net8.0\FinalApi.dll
+C:\Users\Vlad\source\repos\FinalApi\FinalApi\obj\Debug\net8.0\refint\FinalApi.dll
+C:\Users\Vlad\source\repos\FinalApi\FinalApi\obj\Debug\net8.0\FinalApi.pdb
+C:\Users\Vlad\source\repos\FinalApi\FinalApi\obj\Debug\net8.0\FinalApi.genruntimeconfig.cache
+C:\Users\Vlad\source\repos\FinalApi\FinalApi\obj\Debug\net8.0\ref\FinalApi.dll
+C:\Users\Vlad\source\repos\FinalApi\FinalApi\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Vlad\source\repos\FinalApi\FinalApi\bin\Debug\net8.0\System.CodeDom.dll
+C:\Users\Vlad\source\repos\FinalApi\FinalApi\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Vlad\source\repos\FinalApi\FinalApi\bin\Debug\net8.0\System.Data.SqlClient.dll
+C:\Users\Vlad\source\repos\FinalApi\FinalApi\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\Vlad\source\repos\FinalApi\FinalApi\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Vlad\source\repos\FinalApi\FinalApi\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\Vlad\source\repos\FinalApi\FinalApi\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\Vlad\source\repos\FinalApi\FinalApi\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Vlad\source\repos\FinalApi\FinalApi\bin\Debug\net8.0\runtimes\win-arm64\native\sni.dll
+C:\Users\Vlad\source\repos\FinalApi\FinalApi\bin\Debug\net8.0\runtimes\win-x64\native\sni.dll
+C:\Users\Vlad\source\repos\FinalApi\FinalApi\bin\Debug\net8.0\runtimes\win-x86\native\sni.dll
+C:\Users\Vlad\source\repos\FinalApi\FinalApi\bin\Debug\net8.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Vlad\source\repos\FinalApi\FinalApi\bin\Debug\net8.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Vlad\source\repos\FinalApi\FinalApi\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Vlad\source\repos\FinalApi\FinalApi\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Vlad\source\repos\FinalApi\FinalApi\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Vlad\source\repos\FinalApi\FinalApi\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\Vlad\OneDrive\Рабочий стол\FinalApi\FinalApi\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Vlad\OneDrive\Рабочий стол\FinalApi\FinalApi\bin\Debug\net8.0\appsettings.json
+C:\Users\Vlad\OneDrive\Рабочий стол\FinalApi\FinalApi\bin\Debug\net8.0\FinalApi.staticwebassets.endpoints.json
+C:\Users\Vlad\OneDrive\Рабочий стол\FinalApi\FinalApi\bin\Debug\net8.0\FinalApi.exe
+C:\Users\Vlad\OneDrive\Рабочий стол\FinalApi\FinalApi\bin\Debug\net8.0\FinalApi.dll.config
+C:\Users\Vlad\OneDrive\Рабочий стол\FinalApi\FinalApi\bin\Debug\net8.0\FinalApi.deps.json
+C:\Users\Vlad\OneDrive\Рабочий стол\FinalApi\FinalApi\bin\Debug\net8.0\FinalApi.runtimeconfig.json
+C:\Users\Vlad\OneDrive\Рабочий стол\FinalApi\FinalApi\bin\Debug\net8.0\FinalApi.dll
+C:\Users\Vlad\OneDrive\Рабочий стол\FinalApi\FinalApi\bin\Debug\net8.0\FinalApi.pdb
+C:\Users\Vlad\OneDrive\Рабочий стол\FinalApi\FinalApi\bin\Debug\net8.0\EntityFramework.SqlServer.dll
+C:\Users\Vlad\OneDrive\Рабочий стол\FinalApi\FinalApi\bin\Debug\net8.0\EntityFramework.dll
+C:\Users\Vlad\OneDrive\Рабочий стол\FinalApi\FinalApi\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\Vlad\OneDrive\Рабочий стол\FinalApi\FinalApi\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Vlad\OneDrive\Рабочий стол\FinalApi\FinalApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Vlad\OneDrive\Рабочий стол\FinalApi\FinalApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Vlad\OneDrive\Рабочий стол\FinalApi\FinalApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Vlad\OneDrive\Рабочий стол\FinalApi\FinalApi\bin\Debug\net8.0\System.CodeDom.dll
+C:\Users\Vlad\OneDrive\Рабочий стол\FinalApi\FinalApi\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Vlad\OneDrive\Рабочий стол\FinalApi\FinalApi\bin\Debug\net8.0\System.Data.SqlClient.dll
+C:\Users\Vlad\OneDrive\Рабочий стол\FinalApi\FinalApi\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\Vlad\OneDrive\Рабочий стол\FinalApi\FinalApi\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Vlad\OneDrive\Рабочий стол\FinalApi\FinalApi\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\Vlad\OneDrive\Рабочий стол\FinalApi\FinalApi\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\Vlad\OneDrive\Рабочий стол\FinalApi\FinalApi\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Vlad\OneDrive\Рабочий стол\FinalApi\FinalApi\bin\Debug\net8.0\runtimes\win-arm64\native\sni.dll
+C:\Users\Vlad\OneDrive\Рабочий стол\FinalApi\FinalApi\bin\Debug\net8.0\runtimes\win-x64\native\sni.dll
+C:\Users\Vlad\OneDrive\Рабочий стол\FinalApi\FinalApi\bin\Debug\net8.0\runtimes\win-x86\native\sni.dll
+C:\Users\Vlad\OneDrive\Рабочий стол\FinalApi\FinalApi\bin\Debug\net8.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Vlad\OneDrive\Рабочий стол\FinalApi\FinalApi\bin\Debug\net8.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Vlad\OneDrive\Рабочий стол\FinalApi\FinalApi\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Vlad\OneDrive\Рабочий стол\FinalApi\FinalApi\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Vlad\OneDrive\Рабочий стол\FinalApi\FinalApi\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Vlad\OneDrive\Рабочий стол\FinalApi\FinalApi\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\Vlad\OneDrive\Рабочий стол\FinalApi\FinalApi\bin\Debug\net8.0\ClassLibraryDataBase.dll
+C:\Users\Vlad\OneDrive\Рабочий стол\FinalApi\FinalApi\bin\Debug\net8.0\ClassLibraryDataBase.pdb
+C:\Users\Vlad\OneDrive\Рабочий стол\FinalApi\FinalApi\bin\Debug\net8.0\ClassLibraryDataBase.dll.config
+C:\Users\Vlad\OneDrive\Рабочий стол\FinalApi\FinalApi\obj\Debug\net8.0\FinalApi.csproj.AssemblyReference.cache
+C:\Users\Vlad\OneDrive\Рабочий стол\FinalApi\FinalApi\obj\Debug\net8.0\FinalApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vlad\OneDrive\Рабочий стол\FinalApi\FinalApi\obj\Debug\net8.0\FinalApi.AssemblyInfoInputs.cache
+C:\Users\Vlad\OneDrive\Рабочий стол\FinalApi\FinalApi\obj\Debug\net8.0\FinalApi.AssemblyInfo.cs
+C:\Users\Vlad\OneDrive\Рабочий стол\FinalApi\FinalApi\obj\Debug\net8.0\FinalApi.csproj.CoreCompileInputs.cache
+C:\Users\Vlad\OneDrive\Рабочий стол\FinalApi\FinalApi\obj\Debug\net8.0\FinalApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Vlad\OneDrive\Рабочий стол\FinalApi\FinalApi\obj\Debug\net8.0\FinalApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Vlad\OneDrive\Рабочий стол\FinalApi\FinalApi\obj\Debug\net8.0\scopedcss\bundle\FinalApi.styles.css
+C:\Users\Vlad\OneDrive\Рабочий стол\FinalApi\FinalApi\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Vlad\OneDrive\Рабочий стол\FinalApi\FinalApi\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Vlad\OneDrive\Рабочий стол\FinalApi\FinalApi\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\Vlad\OneDrive\Рабочий стол\FinalApi\FinalApi\obj\Debug\net8.0\staticwebassets\msbuild.FinalApi.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Vlad\OneDrive\Рабочий стол\FinalApi\FinalApi\obj\Debug\net8.0\staticwebassets\msbuild.FinalApi.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\Vlad\OneDrive\Рабочий стол\FinalApi\FinalApi\obj\Debug\net8.0\staticwebassets\msbuild.build.FinalApi.props
+C:\Users\Vlad\OneDrive\Рабочий стол\FinalApi\FinalApi\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.FinalApi.props
+C:\Users\Vlad\OneDrive\Рабочий стол\FinalApi\FinalApi\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.FinalApi.props
+C:\Users\Vlad\OneDrive\Рабочий стол\FinalApi\FinalApi\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\Vlad\OneDrive\Рабочий стол\FinalApi\FinalApi\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\Vlad\OneDrive\Рабочий стол\FinalApi\FinalApi\obj\Debug\net8.0\FinalApi.csproj.Up2Date
+C:\Users\Vlad\OneDrive\Рабочий стол\FinalApi\FinalApi\obj\Debug\net8.0\FinalApi.dll
+C:\Users\Vlad\OneDrive\Рабочий стол\FinalApi\FinalApi\obj\Debug\net8.0\refint\FinalApi.dll
+C:\Users\Vlad\OneDrive\Рабочий стол\FinalApi\FinalApi\obj\Debug\net8.0\FinalApi.pdb
+C:\Users\Vlad\OneDrive\Рабочий стол\FinalApi\FinalApi\obj\Debug\net8.0\FinalApi.genruntimeconfig.cache
+C:\Users\Vlad\OneDrive\Рабочий стол\FinalApi\FinalApi\obj\Debug\net8.0\ref\FinalApi.dll
+C:\Users\Vlad\source\repos\FinalApi\FinalApi\bin\Debug\net8.0\FinalApi.staticwebassets.endpoints.json
+C:\Users\Vlad\source\repos\FinalApi\FinalApi\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\Vlad\source\repos\FinalApi\FinalApi\obj\Debug\net8.0\staticwebassets\msbuild.FinalApi.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\Vlad\source\repos\FinalApi\FinalApi\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt

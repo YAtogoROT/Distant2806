@@ -1,0 +1,325 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Vlad\\source\\repos\\FinalApi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DED5024B-EB7E-456F-9863-02773A6A7C9B}|Dist2806\\Dist2806.csproj|c:\\users\\vlad\\source\\repos\\finalapi\\dist2806\\pages\\delete.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DED5024B-EB7E-456F-9863-02773A6A7C9B}|Dist2806\\Dist2806.csproj|solutionrelative:dist2806\\pages\\delete.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DED5024B-EB7E-456F-9863-02773A6A7C9B}|Dist2806\\Dist2806.csproj|c:\\users\\vlad\\source\\repos\\finalapi\\dist2806\\pages\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DED5024B-EB7E-456F-9863-02773A6A7C9B}|Dist2806\\Dist2806.csproj|solutionrelative:dist2806\\pages\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DED5024B-EB7E-456F-9863-02773A6A7C9B}|Dist2806\\Dist2806.csproj|c:\\users\\vlad\\source\\repos\\finalapi\\dist2806\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DED5024B-EB7E-456F-9863-02773A6A7C9B}|Dist2806\\Dist2806.csproj|solutionrelative:dist2806\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DED5024B-EB7E-456F-9863-02773A6A7C9B}|Dist2806\\Dist2806.csproj|c:\\users\\vlad\\source\\repos\\finalapi\\dist2806\\pages\\edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DED5024B-EB7E-456F-9863-02773A6A7C9B}|Dist2806\\Dist2806.csproj|solutionrelative:dist2806\\pages\\edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DED5024B-EB7E-456F-9863-02773A6A7C9B}|Dist2806\\Dist2806.csproj|c:\\users\\vlad\\source\\repos\\finalapi\\dist2806\\pages\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DED5024B-EB7E-456F-9863-02773A6A7C9B}|Dist2806\\Dist2806.csproj|solutionrelative:dist2806\\pages\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DED5024B-EB7E-456F-9863-02773A6A7C9B}|Dist2806\\Dist2806.csproj|c:\\users\\vlad\\source\\repos\\finalapi\\dist2806\\pages\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DED5024B-EB7E-456F-9863-02773A6A7C9B}|Dist2806\\Dist2806.csproj|solutionrelative:dist2806\\pages\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DED5024B-EB7E-456F-9863-02773A6A7C9B}|Dist2806\\Dist2806.csproj|c:\\users\\vlad\\source\\repos\\finalapi\\dist2806\\pages\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DED5024B-EB7E-456F-9863-02773A6A7C9B}|Dist2806\\Dist2806.csproj|solutionrelative:dist2806\\pages\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DED5024B-EB7E-456F-9863-02773A6A7C9B}|Dist2806\\Dist2806.csproj|c:\\users\\vlad\\source\\repos\\finalapi\\dist2806\\services\\apiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DED5024B-EB7E-456F-9863-02773A6A7C9B}|Dist2806\\Dist2806.csproj|solutionrelative:dist2806\\services\\apiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04CC0B0A-CC8E-4D48-B7D3-0BD0CE9635C0}|FinalApi\\FinalApi.csproj|c:\\users\\vlad\\source\\repos\\finalapi\\finalapi\\controllers\\materialsdatacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04CC0B0A-CC8E-4D48-B7D3-0BD0CE9635C0}|FinalApi\\FinalApi.csproj|solutionrelative:finalapi\\controllers\\materialsdatacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DED5024B-EB7E-456F-9863-02773A6A7C9B}|Dist2806\\Dist2806.csproj|c:\\users\\vlad\\source\\repos\\finalapi\\dist2806\\materialss.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DED5024B-EB7E-456F-9863-02773A6A7C9B}|Dist2806\\Dist2806.csproj|solutionrelative:dist2806\\materialss.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DED5024B-EB7E-456F-9863-02773A6A7C9B}|Dist2806\\Dist2806.csproj|c:\\users\\vlad\\source\\repos\\finalapi\\dist2806\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DED5024B-EB7E-456F-9863-02773A6A7C9B}|Dist2806\\Dist2806.csproj|solutionrelative:dist2806\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75A756A1-46A3-4196-846F-95A91D546374}|ClassLibraryDataBase\\ClassLibraryDataBase.csproj|C:\\Users\\Vlad\\source\\repos\\FinalApi\\classlibrarydatabase\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{75A756A1-46A3-4196-846F-95A91D546374}|ClassLibraryDataBase\\ClassLibraryDataBase.csproj|solutionrelative:classlibrarydatabase\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04CC0B0A-CC8E-4D48-B7D3-0BD0CE9635C0}|FinalApi\\FinalApi.csproj|c:\\users\\vlad\\source\\repos\\finalapi\\finalapi\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{04CC0B0A-CC8E-4D48-B7D3-0BD0CE9635C0}|FinalApi\\FinalApi.csproj|solutionrelative:finalapi\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DED5024B-EB7E-456F-9863-02773A6A7C9B}|Dist2806\\Dist2806.csproj|c:\\users\\vlad\\source\\repos\\finalapi\\dist2806\\pages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DED5024B-EB7E-456F-9863-02773A6A7C9B}|Dist2806\\Dist2806.csproj|solutionrelative:dist2806\\pages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04CC0B0A-CC8E-4D48-B7D3-0BD0CE9635C0}|FinalApi\\FinalApi.csproj|c:\\users\\vlad\\source\\repos\\finalapi\\finalapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04CC0B0A-CC8E-4D48-B7D3-0BD0CE9635C0}|FinalApi\\FinalApi.csproj|solutionrelative:finalapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04CC0B0A-CC8E-4D48-B7D3-0BD0CE9635C0}|FinalApi\\FinalApi.csproj|c:\\users\\vlad\\source\\repos\\finalapi\\finalapi\\finalapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{04CC0B0A-CC8E-4D48-B7D3-0BD0CE9635C0}|FinalApi\\FinalApi.csproj|solutionrelative:finalapi\\finalapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75A756A1-46A3-4196-846F-95A91D546374}|ClassLibraryDataBase\\ClassLibraryDataBase.csproj|c:\\users\\vlad\\source\\repos\\finalapi\\classlibrarydatabase\\model1.context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75A756A1-46A3-4196-846F-95A91D546374}|ClassLibraryDataBase\\ClassLibraryDataBase.csproj|solutionrelative:classlibrarydatabase\\model1.context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75A756A1-46A3-4196-846F-95A91D546374}|ClassLibraryDataBase\\ClassLibraryDataBase.csproj|c:\\users\\vlad\\source\\repos\\finalapi\\classlibrarydatabase\\model1.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|",
+      "RelativeMoniker": "D:0:0:{75A756A1-46A3-4196-846F-95A91D546374}|ClassLibraryDataBase\\ClassLibraryDataBase.csproj|solutionrelative:classlibrarydatabase\\model1.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Delete.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Vlad\\source\\repos\\FinalApi\\Dist2806\\Pages\\Delete.cshtml.cs",
+              "RelativeDocumentMoniker": "Dist2806\\Pages\\Delete.cshtml.cs",
+              "ToolTip": "C:\\Users\\Vlad\\source\\repos\\FinalApi\\Dist2806\\Pages\\Delete.cshtml.cs*",
+              "RelativeToolTip": "Dist2806\\Pages\\Delete.cshtml.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-28T15:29:07.565Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\Vlad\\source\\repos\\FinalApi\\Dist2806\\Pages\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Dist2806\\Pages\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\Vlad\\source\\repos\\FinalApi\\Dist2806\\Pages\\Delete.cshtml*",
+              "RelativeToolTip": "Dist2806\\Pages\\Delete.cshtml*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-28T15:26:36.469Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Edit.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Vlad\\source\\repos\\FinalApi\\Dist2806\\Pages\\Edit.cshtml.cs",
+              "RelativeDocumentMoniker": "Dist2806\\Pages\\Edit.cshtml.cs",
+              "ToolTip": "C:\\Users\\Vlad\\source\\repos\\FinalApi\\Dist2806\\Pages\\Edit.cshtml.cs",
+              "RelativeToolTip": "Dist2806\\Pages\\Edit.cshtml.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABMAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-28T14:51:14.68Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\Vlad\\source\\repos\\FinalApi\\Dist2806\\Pages\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Dist2806\\Pages\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\Vlad\\source\\repos\\FinalApi\\Dist2806\\Pages\\Edit.cshtml",
+              "RelativeToolTip": "Dist2806\\Pages\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-28T14:42:09.625Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "App.Config",
+              "DocumentMoniker": "C:\\Users\\Vlad\\source\\repos\\FinalApi\\FinalApi\\App.Config",
+              "RelativeDocumentMoniker": "FinalApi\\App.Config",
+              "ToolTip": "C:\\Users\\Vlad\\source\\repos\\FinalApi\\FinalApi\\App.Config",
+              "RelativeToolTip": "FinalApi\\App.Config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-06-28T13:52:05.803Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Vlad\\source\\repos\\FinalApi\\Dist2806\\Pages\\Create.cshtml",
+              "RelativeDocumentMoniker": "Dist2806\\Pages\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Vlad\\source\\repos\\FinalApi\\Dist2806\\Pages\\Create.cshtml*",
+              "RelativeToolTip": "Dist2806\\Pages\\Create.cshtml*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-28T13:37:07.164Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Create.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Vlad\\source\\repos\\FinalApi\\Dist2806\\Pages\\Create.cshtml.cs",
+              "RelativeDocumentMoniker": "Dist2806\\Pages\\Create.cshtml.cs",
+              "ToolTip": "C:\\Users\\Vlad\\source\\repos\\FinalApi\\Dist2806\\Pages\\Create.cshtml.cs",
+              "RelativeToolTip": "Dist2806\\Pages\\Create.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-28T13:33:15.6Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Index.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Vlad\\source\\repos\\FinalApi\\Dist2806\\Pages\\Index.cshtml.cs",
+              "RelativeDocumentMoniker": "Dist2806\\Pages\\Index.cshtml.cs",
+              "ToolTip": "C:\\Users\\Vlad\\source\\repos\\FinalApi\\Dist2806\\Pages\\Index.cshtml.cs",
+              "RelativeToolTip": "Dist2806\\Pages\\Index.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-28T13:01:55.353Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Vlad\\source\\repos\\FinalApi\\Dist2806\\Pages\\Index.cshtml",
+              "RelativeDocumentMoniker": "Dist2806\\Pages\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Vlad\\source\\repos\\FinalApi\\Dist2806\\Pages\\Index.cshtml",
+              "RelativeToolTip": "Dist2806\\Pages\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-28T12:49:57.104Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Materialss.cs",
+              "DocumentMoniker": "C:\\Users\\Vlad\\source\\repos\\FinalApi\\Dist2806\\Materialss.cs",
+              "RelativeDocumentMoniker": "Dist2806\\Materialss.cs",
+              "ToolTip": "C:\\Users\\Vlad\\source\\repos\\FinalApi\\Dist2806\\Materialss.cs",
+              "RelativeToolTip": "Dist2806\\Materialss.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-28T12:46:26.908Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Vlad\\source\\repos\\FinalApi\\Dist2806\\Program.cs",
+              "RelativeDocumentMoniker": "Dist2806\\Program.cs",
+              "ToolTip": "C:\\Users\\Vlad\\source\\repos\\FinalApi\\Dist2806\\Program.cs",
+              "RelativeToolTip": "Dist2806\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-28T12:12:28.233Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ApiService.cs",
+              "DocumentMoniker": "C:\\Users\\Vlad\\source\\repos\\FinalApi\\Dist2806\\Services\\ApiService.cs",
+              "RelativeDocumentMoniker": "Dist2806\\Services\\ApiService.cs",
+              "ToolTip": "C:\\Users\\Vlad\\source\\repos\\FinalApi\\Dist2806\\Services\\ApiService.cs",
+              "RelativeToolTip": "Dist2806\\Services\\ApiService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwA4AAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-28T12:18:39.448Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Vlad\\source\\repos\\FinalApi\\FinalApi\\Program.cs",
+              "RelativeDocumentMoniker": "FinalApi\\Program.cs",
+              "ToolTip": "C:\\Users\\Vlad\\source\\repos\\FinalApi\\FinalApi\\Program.cs",
+              "RelativeToolTip": "FinalApi\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-28T12:01:24.138Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Model1.Context.cs",
+              "DocumentMoniker": "C:\\Users\\Vlad\\source\\repos\\FinalApi\\ClassLibraryDataBase\\Model1.Context.cs",
+              "RelativeDocumentMoniker": "ClassLibraryDataBase\\Model1.Context.cs",
+              "ToolTip": "C:\\Users\\Vlad\\source\\repos\\FinalApi\\ClassLibraryDataBase\\Model1.Context.cs",
+              "RelativeToolTip": "ClassLibraryDataBase\\Model1.Context.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-28T11:59:29.571Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Model1.edmx [Diagram1]",
+              "DocumentMoniker": "C:\\Users\\Vlad\\source\\repos\\FinalApi\\ClassLibraryDataBase\\Model1.edmx",
+              "RelativeDocumentMoniker": "ClassLibraryDataBase\\Model1.edmx",
+              "ToolTip": "C:\\Users\\Vlad\\source\\repos\\FinalApi\\ClassLibraryDataBase\\Model1.edmx [Diagram1]",
+              "RelativeToolTip": "ClassLibraryDataBase\\Model1.edmx [Diagram1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001116|",
+              "WhenOpened": "2025-06-28T11:58:44.32Z",
+              "EditorCaption": " [Diagram1]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "FinalApi.csproj",
+              "DocumentMoniker": "C:\\Users\\Vlad\\source\\repos\\FinalApi\\FinalApi\\FinalApi.csproj",
+              "RelativeDocumentMoniker": "FinalApi\\FinalApi.csproj",
+              "ToolTip": "C:\\Users\\Vlad\\source\\repos\\FinalApi\\FinalApi\\FinalApi.csproj",
+              "RelativeToolTip": "FinalApi\\FinalApi.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-05T06:54:53.889Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "App.Config",
+              "DocumentMoniker": "C:\\Users\\Vlad\\source\\repos\\FinalApi\\ClassLibraryDataBase\\App.Config",
+              "RelativeDocumentMoniker": "ClassLibraryDataBase\\App.Config",
+              "ToolTip": "C:\\Users\\Vlad\\source\\repos\\FinalApi\\ClassLibraryDataBase\\App.Config",
+              "RelativeToolTip": "ClassLibraryDataBase\\App.Config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-12-05T06:54:44.802Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MaterialsDataController.cs",
+              "DocumentMoniker": "C:\\Users\\Vlad\\source\\repos\\FinalApi\\FinalApi\\Controllers\\MaterialsDataController.cs",
+              "RelativeDocumentMoniker": "FinalApi\\Controllers\\MaterialsDataController.cs",
+              "ToolTip": "C:\\Users\\Vlad\\source\\repos\\FinalApi\\FinalApi\\Controllers\\MaterialsDataController.cs",
+              "RelativeToolTip": "FinalApi\\Controllers\\MaterialsDataController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABwAAABhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T06:39:21.441Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
