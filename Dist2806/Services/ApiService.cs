@@ -12,16 +12,30 @@ namespace Dist2806.Services
             _httpClient.BaseAddress = new Uri("http://localhost:7275");
         }
 
-        public async Task<List<Materialss>> GetMaterialssAsync() =>
-            await _httpClient.GetFromJsonAsync<List<Materialss>>("api/materials") ?? new();
-        public async Task<Materialss?> GetMaterialssAsync(int id) =>
-            await _httpClient.GetFromJsonAsync<Materialss>($"api/materials/{id}");
-        public async Task AddMaterialssAsync(Materialss material) =>
-            await _httpClient.PostAsJsonAsync("api/materials", material);
-        public async Task UpdateMaterialssAsync(int id, Materialss material) =>
-            await _httpClient.PutAsJsonAsync($"api/materials/{id}", material);
-        public async Task DeleteMaterialssAsync(int id) =>
-            await _httpClient.DeleteAsync($"api/materials/{id}");
+        public async Task<List<Materialss>> GetMaterialssAsync()
+        {
+            var res = await _httpClient.GetFromJsonAsync<List<Materialss>>("api/MaterialsData");
+            return res ?? new List<Materialss>();
+        }
+        public async Task<Materialss?> GetMaterialssAsync(int id)
+        {
+            return await _httpClient.GetFromJsonAsync<Materialss>($"api/MaterialsData/GetMaterial/{id}");
+        }
+        public async Task<bool> AddMaterialssAsync(Materialss material)
+        {
+            var res = await _httpClient.PostAsJsonAsync("api/MaterialsData/material", material);
+            return res.IsSuccessStatusCode;
+        }
+        public async Task<bool> UpdateMaterialssAsync(int id, Materialss material)
+        {
+            var res = await _httpClient.PutAsJsonAsync($"api/MaterialsData/{id}", material);
+            return res.IsSuccessStatusCode;
+        }
+        public async Task<bool> DeleteMaterialssAsync(int id)
+        {
+            var res = await _httpClient.DeleteAsync($"api/MaterialsData/{id}");
+            return res.IsSuccessStatusCode;
+        }
 
     }
 }

@@ -12,7 +12,7 @@ namespace ClassLibraryDataBase
     using System;
     using System.Data.Entity;
     using System.Data.Entity.Infrastructure;
-    
+
     public partial class DistEntities : DbContext
     {
         private static DistEntities _context;
@@ -30,7 +30,7 @@ namespace ClassLibraryDataBase
         {
             throw new UnintentionalCodeFirstException();
         }
-    
+
         public virtual DbSet<Materialss> Materialss { get; set; }
     }
 }

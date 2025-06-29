@@ -13,9 +13,9 @@ namespace Dist2806.Pages
         {
             _apiService = apiService;
         }
-        public IActionResult OnGet(int id)
+        public async Task<IActionResult> OnGet(int id)
         {
-            Material = _apiService.GetMaterialssAsync(id).Result;
+            Material = await _apiService.GetMaterialssAsync(id);
             if (Material == null)
                 return NotFound();
             return Page();

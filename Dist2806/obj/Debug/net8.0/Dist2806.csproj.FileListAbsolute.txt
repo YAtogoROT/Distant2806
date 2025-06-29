@@ -32,3 +32,4 @@ C:\Users\Vlad\source\repos\FinalApi\Dist2806\obj\Debug\net8.0\refint\Dist2806.dl
 C:\Users\Vlad\source\repos\FinalApi\Dist2806\obj\Debug\net8.0\Dist2806.pdb
 C:\Users\Vlad\source\repos\FinalApi\Dist2806\obj\Debug\net8.0\Dist2806.genruntimeconfig.cache
 C:\Users\Vlad\source\repos\FinalApi\Dist2806\obj\Debug\net8.0\ref\Dist2806.dll
+C:\Users\Vlad\source\repos\FinalApi\Dist2806\obj\Debug\net8.0\Dist2806.sourcelink.json

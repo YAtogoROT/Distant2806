@@ -3,7 +3,11 @@ var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
 builder.Services.AddRazorPages();
-builder.Services.AddHttpClient<ApiService>();
+builder.Services.AddHttpClient<ApiService>(client =>
+{
+    client.BaseAddress = new Uri("https://localhost:7275");
+    client.DefaultRequestHeaders.Add("Accept", "application/json");
+});
 
 var app = builder.Build();
 

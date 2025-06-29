@@ -8,7 +8,6 @@ C:\Users\Vlad\source\repos\FinalApi\FinalApi\obj\Debug\net8.0\FinalApi.MvcApplic
 C:\Users\Vlad\source\repos\FinalApi\FinalApi\bin\Debug\net8.0\appsettings.Development.json
 C:\Users\Vlad\source\repos\FinalApi\FinalApi\bin\Debug\net8.0\appsettings.json
 C:\Users\Vlad\source\repos\FinalApi\FinalApi\bin\Debug\net8.0\FinalApi.exe
-C:\Users\Vlad\source\repos\FinalApi\FinalApi\bin\Debug\net8.0\FinalApi.dll.config
 C:\Users\Vlad\source\repos\FinalApi\FinalApi\bin\Debug\net8.0\FinalApi.deps.json
 C:\Users\Vlad\source\repos\FinalApi\FinalApi\bin\Debug\net8.0\FinalApi.runtimeconfig.json
 C:\Users\Vlad\source\repos\FinalApi\FinalApi\bin\Debug\net8.0\FinalApi.dll
@@ -118,3 +117,5 @@ C:\Users\Vlad\source\repos\FinalApi\FinalApi\bin\Debug\net8.0\FinalApi.staticweb
 C:\Users\Vlad\source\repos\FinalApi\FinalApi\obj\Debug\net8.0\staticwebassets.build.endpoints.json
 C:\Users\Vlad\source\repos\FinalApi\FinalApi\obj\Debug\net8.0\staticwebassets\msbuild.FinalApi.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
 C:\Users\Vlad\source\repos\FinalApi\FinalApi\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\Vlad\source\repos\FinalApi\FinalApi\obj\Debug\net8.0\FinalApi.sourcelink.json
+C:\Users\Vlad\source\repos\FinalApi\FinalApi\bin\Debug\net8.0\FinalApi.dll.config

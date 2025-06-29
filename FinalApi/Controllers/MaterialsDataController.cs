@@ -45,6 +45,7 @@ namespace FinalApi.Controllers
 
             existing.Material_Name = material.Material_Name;
             existing.Material_Cost = material.Material_Cost;
+            DistEntities.GetContext().SaveChanges();
 
             return NoContent();
         }
@@ -56,6 +57,7 @@ namespace FinalApi.Controllers
             if (material == null) return NotFound();
 
             DistEntities.GetContext().Materialss.Remove(material);
+            DistEntities.GetContext().SaveChanges();
             return NoContent();
         }
     }
